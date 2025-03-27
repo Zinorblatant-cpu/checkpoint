@@ -74,7 +74,7 @@ legend('F(t) = -at^2 + bt + c', 'Vértice (Altura Máxima)');
 hold off;
 
 
-% Uma função exponencial ou logarítmica 
+% Uma função exponencial 
 
 % Podemos usar uma função exponencial para calcular juros compostos 
 % Definindo os parâmetros
